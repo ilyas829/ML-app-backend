@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies and run code
         run: |
           pip install -r requirements.txt
-          python main.py
+          
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
 
